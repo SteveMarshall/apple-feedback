@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D64" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Item" representedClassName=".CoreDataCookbook" syncable="YES" codeGenerationType="class">
+        <attribute name="stringA" optional="YES" attributeType="String" spotlightIndexingEnabled="YES"/>
+        <attribute name="stringB" optional="YES" attributeType="String" spotlightIndexingEnabled="YES"/>
+    </entity>
+    <elements>
+        <element name="Item" positionX="-54" positionY="0" width="128" height="59"/>
+    </elements>
+</model>
